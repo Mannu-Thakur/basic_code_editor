@@ -2,7 +2,7 @@
 
 A simple and lightweight web-based Code Editor for writing and testing HTML, CSS, and JavaScript in real-time.
 
-🔗 Live Demo: Click Here
+🔗 Live Demo: [https://starlit-stroopwafel-39e250.netlify.app/]
 
 🚀 Features
 
@@ -15,3 +15,4 @@ A simple and lightweight web-based Code Editor for writing and testing HTML, CSS
 📱 Responsive design (works on desktop & mobile)
 
 🌐 No installation required – runs directly in the browser
+
